@@ -14,3 +14,4 @@ export const dbConnect = async() => {
         console.error('No nos pudimos conectar a MongoDB :c 😱', error);
     }
 };
+ 
